@@ -24,7 +24,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 🎄 Manufacturer : Xiaomi
 🎋 Product : Poco X3 Pro
 🎍 Board : Vayu
-🎗 Hardware : qcom SM7320G
+🎗 Hardware : qcom SM8650
 
 
 
