@@ -1,9 +1,9 @@
 const allpayment = (prefix) => {
 return `PAYMENT BY ZEEONE OFC
 
-*🏧 BANK*
+*🏧 RECOMENDED*
 
-1. BELUM PUNYA
+1. https://trakteer.id/regnan32/tip
 	
 *💰 E-MONEY*
 
